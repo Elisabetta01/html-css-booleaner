@@ -20,6 +20,7 @@ section{
 .thead{
      color: white;
      background-color: dodgerblue;
+     text-align: left;
 }
 
 .tr-celeste{
@@ -46,5 +47,4 @@ section{
      padding: 20px;
      margin-bottom: 10px;
 }
-
 
