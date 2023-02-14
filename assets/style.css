@@ -1,0 +1,50 @@
+header{
+     background-image: url(./img/pattern.png);
+     background-color: dodgerblue;
+     background-size: 20%;
+     padding-top: 50px;
+}
+
+section{
+     margin: 30px 0;
+}
+
+.text-grey{
+     color: grey;
+}
+
+.text-sky{
+     color: dodgerblue;
+}
+
+.thead{
+     color: white;
+     background-color: dodgerblue;
+}
+
+.tr-celeste{
+     background-color: lightblue;
+}
+
+.th1, .th2{
+     width: 30%;
+}
+
+.foto1{
+     background-image: url(./img/monitor.jpg);
+     color: white;
+}
+
+.foto2{
+     background-image: url(./img/graph.jpg);
+     color: white;
+}
+
+.dimensione{
+     width: 300px;
+     height: 200px;
+     padding: 20px;
+     margin-bottom: 10px;
+}
+
+
